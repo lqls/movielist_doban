@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Movie</string>
+    <string name="app_name">MovieList</string>
     <string name="expansion">展开</string>
     <string name="shrink">收起</string>
     <string name="search">搜索</string>
@@ -15,4 +15,6 @@
     <string name="no_score">暂无评分</string>
     <string name="actor">演职人员</string>
     <string name="comma">,</string>
+    <string name="xxx">xxx</string>
+    <string name="zzz">888</string>
 </resources>
